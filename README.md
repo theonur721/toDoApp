@@ -39,6 +39,12 @@ This project is a ToDo application developed using React Native. Users can add, 
 
 ---
 
+## Screen Gif
+
+![](ekran.gif)
+
+---
+
 # ToDo Uygulaması (Türkçe)
 
 Bu proje, React Native kullanılarak geliştirilen bir ToDo uygulamasıdır. Kullanıcılar görev ekleyebilir, silebilir ve güncelleyebilir.
@@ -70,7 +76,3 @@ Bu proje, React Native kullanılarak geliştirilen bir ToDo uygulamasıdır. Kul
    # Sonrasında başka bir terminalde
    npm run ios
    ```
-
-## Screen Gif
-
-![](ekran.gif)
